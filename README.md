@@ -43,15 +43,12 @@
 
 ---
 
-<!-- 🌍 Languages -->
+<!-- 🌍 Languages I Speak -->
 <h2 align="left">🌍 Languages I Speak</h2>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="40" title="Arabic - Native" />
-  <span style="margin-right: 15px;">Arabic (Native)</span>
-
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="40" title="English - Professional" />
-  <span>English (Professional)</span>
+  <img src="https://img.shields.io/badge/Arabic%20(Native)-🇪🇬-13BEA0?style=for-the-badge" alt="Arabic Native" />
+  <img src="https://img.shields.io/badge/English%20(Professional)-🇬🇧-0d6efd?style=for-the-badge" alt="English Professional" />
 </p>
 
 ---
