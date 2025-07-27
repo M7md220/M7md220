@@ -12,7 +12,7 @@
 
 <h2 align="left">👨‍💼 About Me</h2>
 
--  Name: Mohamed Morsy
+- 👋 Name: Mohamed Morsy
 - 💻 Role: Front-End Developer (React, JavaScript, CSS)
 - 🌐 I learned from amazing mentors like:
   - Islam Hesham (Codezilla)
@@ -21,7 +21,7 @@
 - 🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.
 - 🧠 Always learning and improving my technical & soft skills
 - 🚀 Mission: To combine Agriculture & Technology for a better future
-- ☕ Fuel: Tea + Morning = 💡
+- ☕ Fuel: Tea + Morning = 💡 Productivity
 
 ---
 
