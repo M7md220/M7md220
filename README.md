@@ -71,8 +71,8 @@
 <!-- 🌍 Languages I Speak -->
 ### 🌍 Languages I Speak
 
-- 🇪🇬 Arabic — Native Speaker  
-- 🇬🇧 English — Professional Level
+- Arabic — Native Speaker  
+- English — Professional Level
 
 ---
 
