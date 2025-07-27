@@ -35,12 +35,12 @@
   <li>☕ Fuel: Tea + Morning = 💡 Productivity</li>
 </ul>
 
-<p align="right">
 <p align="center">
   <a href="#projects" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 View My Projects-13BEA0?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects"/>
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Projects-13BEA0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="View Projects" />
   </a>
 </p>
+
 
 ---
 
