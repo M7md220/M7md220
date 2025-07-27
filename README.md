@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="left">🛠️ Languages & Tools</h2>
+<h2 align="left">🛠️ Tech Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" alt="Languages & Tools" />
