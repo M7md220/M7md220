@@ -23,11 +23,11 @@
 
 - 🎓 Student at Faculty of Agriculture, Egypt
 - 💻 Passionate Front-End Developer
-- 🧠 Always learning and improving technical & soft skills
 - 🌐 I learned from amazing mentors like:
   - Islam Hesham (Codezilla)
   - Osama Elzero (Elzero Web School)
   - Al-Madrasa Platform
+- 🧠 Always learning and improving technical & soft skills
 - 🚀 I believe in consistency, practice, and sharing knowledge
 
 ---
