@@ -9,10 +9,9 @@
 </p>
 
 ---
-
 <p align="right">
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20My%20Portfolio-13BEA0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="My Portfolio Button" height="45">
+    <img src="https://media.giphy.com/media/IbRzT0zLxCRfyfwqUh/giphy.gif" alt="My Portfolio Animated Button" height="60">
   </a>
 </p>
 <h2 align="left">👨‍💼 About Me</h2>
