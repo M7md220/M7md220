@@ -1,25 +1,22 @@
-<!-- 👋 Header Animation -->
+<!-- ✨ Header Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mohamed+Morsy!;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Passionate+about+Code+%26+Creativity+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=13BEA0&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Morsy.;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Creativity!" />
 </p>
 
-<!-- 💻 Hero Image -->
+<!-- 👨‍💻 Hero GIF -->
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="coding gif">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ About Me
 
 ```yaml
-🎓 Student: Faculty of Agriculture, Egypt 🇪🇬
-💻 Role: Front-End Developer | UI Lover | Code Artist
-🧠 I learned from: 
-  - Codezilla (Islam Hesham)
-  - Elzero Web School (Osama Elzero)
-  - Al-Madrasa Platform
-🎯 Focus: Clean Code, Creative UIs, Responsive Design
-💬 Languages: JavaScript, HTML5, CSS3, React.js
-🚀 Mission: To combine science & technology for a better future
-☕ Fun Fact: I debug better with tea in hand 😄
+👨‍💻 Name: Mohamed Morsy
+🎓 Major: Agricultural Sciences
+💻 Role: Front-End Developer
+🌱 Learning: React, Tailwind CSS, UI/UX, Web Animation
+🧠 From: Egypt 🇪🇬
+🚀 Passion: Clean Code, Creative Design, Modern Web Apps
+🎯 Goal: Combine science 🌿 + tech 💻 to build a better future
