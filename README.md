@@ -11,14 +11,6 @@
 </p>
 
 ---
-
-<h2 align="left">🛠️ Tech Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" alt="Languages & Tools" />
-</p>
-
----
 ### 👨‍💼 About Me
 
 - 👋 **Name:** Mohamed Morsy
@@ -62,6 +54,19 @@
 
 ---
 
+### 💼 I'm Open To
+- Front-End Internships
+- Freelance Projects
+
+---
+
+<h2 align="left">🛠️ Tech Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" alt="Languages & Tools" />
+</p>
+
+---
 ## 🧠 Quote I Live By
 
 > **"Be patient. Keep learning. Keep building. Never stop growing."**
