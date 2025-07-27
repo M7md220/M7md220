@@ -51,11 +51,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [🌐 Creative Portfolio Website](#) | A modern and responsive portfolio built with React. |
-| [🌾 Agri-Tech Platform](#) | A concept platform bridging tech and agriculture. |
-| [🛒 E-Commerce site](#) |  fictional e-commerce platform. |
-| [🖥️ Front-End Mini Projects](#) | Collection of interactive front-end challenges. |
-
+| [🌐 Creative Portfolio Website](#creative-portfolio-website) | A modern and responsive portfolio built with React. |
+| [🌾 Agri-Tech Platform](#agri-tech-platform) | A concept platform bridging tech and agriculture. |
+| [🛒 E-Commerce Site](#e-commerce-site) | A fictional e-commerce platform. |
+| [🧩 Front-End Mini Projects](#front-end-mini-projects) | Small UI/UX interactive components built with HTML/CSS/JS. |
 
 ---
 
