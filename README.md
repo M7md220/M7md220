@@ -29,20 +29,8 @@
 </ul>
 
 <p align="center">
-  <a href="#projects" target="_blank" style="text-decoration: none;">
-    <span style="
-      display: inline-block;
-      background-color: #13BEA0;
-      color: #111111;
-      padding: 14px 28px;
-      font-size: 20px;
-      font-weight: bold;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      transition: transform 0.3s ease;
-    " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      VIEW MY PORTFOLIO
-    </span>
+  <a href="#projects" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 VIEW MY PORTFOLIO-13BEA0?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=13BEA0" alt="My Portfolio Button" height="50"/>
   </a>
 </p>
 
