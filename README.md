@@ -52,9 +52,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [🌐 Creative Portfolio Website](https://yourportfolio.com) | A modern and responsive portfolio built with React. |
+| [🌐 Creative Portfolio Website](#) | A modern and responsive portfolio built with React. |
 | [🌾 Agri-Tech Platform](#) | A concept platform bridging tech and agriculture. |
-| [🛒 E-Commerce UI Design](#) | UI/UX for a fictional e-commerce platform. |
+| [🛒 E-Commerce site](#) |  fictional e-commerce platform. |
 | [🖥️ Front-End Mini Projects](#) | Collection of interactive front-end challenges. |
 
 
