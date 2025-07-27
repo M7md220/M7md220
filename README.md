@@ -1,7 +1,9 @@
 <!-- ✨ Header Animated Title -->
+<!-- ✨ Header Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=13BEA0&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Morsy.;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Creativity!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=13BEA0&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Morsy.;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Creativity!" />
 </p>
+
 
 <!-- 👨‍💻 Hero GIF -->
 <p align="center">
