@@ -27,6 +27,42 @@
 - 🚀 Mission: To combine Agriculture & Technology for a better future
   
 - ☕ Fuel: Tea + Morning = 💡 Productivity
+---
+
+<h2 align="left">🚀 My Projects</h2>
+
+### 🖥️ Front-End Projects
+
+- **Responsive Recipe Website**  
+  A beautifully designed recipe page built with HTML, CSS, and Flexbox.  
+  _[View Project](https://github.com/username/recipe-site)_
+
+- **Portfolio Website**  
+  Clean and modern portfolio site to showcase my skills and projects.  
+  _[View Project](https://github.com/username/portfolio)_
+
+- **X-O Game (Tic Tac Toe)**  
+  Classic game built using Python and Tkinter with a friendly interface.  
+  _[View Project](https://github.com/username/xo-game)_
+
+---
+
+### 🌾 Agri-Tech Projects
+
+- **Smart Farm Dashboard**  
+  A responsive web interface to track crops, soil health, irrigation schedules. Built with React + Chart.js.  
+  _[Demo Soon]_ 🚧
+
+- **AgriTrack Platform**  
+  Concept for a platform that helps farmers monitor field performance, get weather alerts, and connect with experts.  
+  _[Prototype in Progress]_ 🧪
+
+- **Soil Scanner UI**  
+  Front-end interface for a system that visualizes soil nutrient data from sensors.  
+  _[Coming Soon]_ 🌱
+
+---
+
 
 ---
 
