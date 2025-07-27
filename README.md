@@ -10,6 +10,12 @@
 
 ---
 
+<p align="right">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20My%20Portfolio-13BEA0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="My Portfolio Button" height="45">
+  </a>
+</p>
+
 <h2 align="left">👨‍💼 About Me</h2>
 
 - 👋 Name: Mohamed Morsy
@@ -27,12 +33,6 @@
 - 🚀 Mission: To combine Agriculture & Technology for a better future
   
 - ☕ Fuel: Tea + Morning = 💡 Productivity
-
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20My%20Portfolio-00BFA6?style=for-the-badge&logo=firefox&logoColor=white" alt="My Portfolio Badge">
-  </a>
-</p>
 
 ---
 
