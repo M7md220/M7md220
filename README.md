@@ -43,12 +43,16 @@
 
 ---
 
-<h2 align="left">🗣️ Languages I Speak</h2>
+<!-- 🌍 Languages -->
+<h2 align="left">🌍 Languages I Speak</h2>
 
-<ul>
-  <li>🇪🇬 Arabic : Native</li>
-  <li>🔵 English : Professional</li>
-</ul>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="40" title="Arabic - Native" />
+  <span style="margin-right: 15px;">Arabic (Native)</span>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="40" title="English - Professional" />
+  <span>English (Professional)</span>
+</p>
 
 ---
 
