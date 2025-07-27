@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/%F0%9F%92%BC%20My%20Portfolio-13BEA0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="My Portfolio Button" height="45">
   </a>
 </p>
-
 <h2 align="left">👨‍💼 About Me</h2>
 
 - 👋 Name: Mohamed Morsy
