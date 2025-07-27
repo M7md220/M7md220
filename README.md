@@ -36,8 +36,9 @@
 </ul>
 
 <p align="right">
+<p align="center">
   <a href="#projects" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%96%20Explore%20My%20Work-D946EF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Explore My Work"/>
+    <img src="https://img.shields.io/badge/🚀 View My Projects-13BEA0?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects"/>
   </a>
 </p>
 
