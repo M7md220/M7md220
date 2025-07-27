@@ -46,8 +46,8 @@
 <h2 align="left">🗣️ Languages I Speak</h2>
 
 <ul>
-  <li>🟢 Arabic: Native</li>
-  <li>🔵 English: Professional</li>
+  <li>🇪🇬 Arabic : Native</li>
+  <li>🔵 English : Professional</li>
 </ul>
 
 ---
