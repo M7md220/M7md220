@@ -37,7 +37,7 @@
 
 <p align="right">
   <a href="#projects" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View My Portfolio-13BEA0?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio Button" height="50%"/>
+    <img src="https://img.shields.io/badge/%F0%9F%94%96%20Explore%20My%20Work-1F1F1FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Explore My Work"/>
   </a>
 </p>
 
