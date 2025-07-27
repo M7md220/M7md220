@@ -10,9 +10,6 @@
 
 ---
 
-<table><tr>
-<td valign="top" width="50%">
-
 <h2 align="left">👨‍💼 About Me</h2>
 
 - 👋 Name: Mohamed Morsy
