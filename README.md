@@ -10,40 +10,32 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
-  
 <h2 align="left">👨‍💼 About Me</h2>
 
-- 👋 Name: Mohamed Morsy
-  
-- 💻 Role: Front-End Developer (React, JavaScript, CSS)
-- 🌐 I learned from amazing mentors like:
-  - Al-Madrasa Platform
-  - Islam Hesham (Codezilla)
-  - Osama Elzero (Elzero Web School)
-    
-- 🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.
-  
-- 🧠 Always learning and improving my technical & soft skills
-  
-- 🚀 Mission: To combine Agriculture & Technology for a better future
-  
-- ☕ Fuel: Tea + Morning = 💡 Productivity
-</td>
-<td valign="top" align="right" width="40%">
+<ul>
+  <li>👋 Name: Mohamed Morsy</li>
+  <li>💻 Role: Front-End Developer (React, JavaScript, CSS)</li>
+  <li>🌐 I learned from amazing mentors like:
+    <ul>
+      <li>Al-Madrasa Platform</li>
+      <li>Islam Hesham (Codezilla)</li>
+      <li>Osama Elzero (Elzero Web School)</li>
+    </ul>
+  </li>
+  <li>🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.</li>
+  <li>🧠 Always learning and improving my technical & soft skills</li>
+  <li>🚀 Mission: To combine Agriculture & Technology for a better future</li>
+  <li>☕ Fuel: Tea + Morning = 💡 Productivity</li>
+</ul>
 
-<!-- 🌐 My Portfolio Button -->
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-%2313BEA0?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" />
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="#projects" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 View My Portfolio-13BEA0?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio Button"/>
+  </a>
+</p>
 
 ---
+
 <!-- 🚀 Projects Section -->
 <h2>🚀 Featured Projects</h2>
 
@@ -65,7 +57,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
