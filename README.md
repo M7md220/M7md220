@@ -40,7 +40,13 @@
     <img src="https://img.shields.io/badge/🌐 View My Portfolio-13BEA0?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio Button"/>
   </a>
 </p>
+---
+<h2 align="left">🗣️ Languages I Speak</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-%2313BEA0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic Badge"/>
+  <img src="https://img.shields.io/badge/English-Professional-%2313BEA0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Badge"/>
+</p>
 ---
 
 <!-- 🚀 Projects Section -->
