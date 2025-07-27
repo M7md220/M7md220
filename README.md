@@ -34,13 +34,14 @@
   <li>🚀 Mission: To combine Agriculture & Technology for a better future</li><br>
   <li>☕ Fuel: Tea + Morning = 💡 Productivity</li>
 </ul>
+<!-- 💼 Portfolio Section -->
+<p align="center"><strong>🚀 Curious about my work? Dive into my portfolio now!</strong></p>
 
 <p align="center">
-  <a href="#projects" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20View%20My%20Projects-13BEA0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="View Projects" />
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-13BEA0?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio Button" />
   </a>
 </p>
-
 
 ---
 
