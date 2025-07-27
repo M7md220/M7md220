@@ -12,14 +12,16 @@
 
 <h2 align="left">👨‍💼 About Me</h2>
 
-- 🎓 Student at Faculty of Agriculture, Egypt
-- 💻 Passionate Front-End Developer
-- 🧠 Always learning and improving technical & soft skills
+-  Name: Mohamed Morsy
+- 💻 Role: Front-End Developer (React, JavaScript, CSS)
 - 🌐 I learned from amazing mentors like:
   - Islam Hesham (Codezilla)
   - Osama Elzero (Elzero Web School)
   - Al-Madrasa Platform
-- 🚀 I believe in consistency, practice, and sharing knowledge
+- 🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.
+- 🧠 Always learning and improving my technical & soft skills
+- 🚀 Mission: To combine Agriculture & Technology for a better future
+- ☕ Fuel: Tea + Morning = 💡
 
 ---
 
@@ -33,4 +35,4 @@
 
 <h2 align="left">🧠 Quote I Live By</h2>
 
-> "Keep building. Keep learning. Never stop growing."
+> "Be patient. Keep learning. Keep building. Never stop growing."
