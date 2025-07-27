@@ -11,7 +11,7 @@
 ---
 <p align="right">
   <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20My%20Portfolio-00BFA6?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="My Portfolio Badge" height="40">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20My%20Portfolio-00BFA6?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="My Portfolio Badge" height="100">
   </a>
 </p>
 <h2 align="left">👨‍💼 About Me</h2>
