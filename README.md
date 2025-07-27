@@ -5,7 +5,7 @@
 
 <!-- 👨‍💻 Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="auto" style="max-width: 500;" alt="coding gif" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="auto" style="max-width: 500px;" alt="coding gif" />
 </p>
 
 ---
