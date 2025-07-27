@@ -43,6 +43,36 @@
 
 ---
 
+<!-- 🚀 Projects Section -->
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td>
+      <strong>🌐 Creative Portfolio Website</strong><br />
+    </td>
+    <td>
+      <strong>🌾 Agri-Tech Platform</strong><br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🛒 E-Commerce UI Design</strong><br />
+    </td>
+    <td>
+      <strong>🖥️ Front-End Projects</strong><br />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="left">🧠 Quote I Live By</h2>
+
+> "Be patient. Keep learning. Keep building. Never stop growing."
+
+ ---
+
 <!-- 🌍 Languages I Speak -->
 <h2 align="left">🌍 Languages I Speak</h2>
 
@@ -65,31 +95,6 @@
   </div>
 
 </div>
-
-
----
-
-<!-- 🚀 Projects Section -->
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td>
-      <strong>🌐 Creative Portfolio Website</strong><br />
-    </td>
-    <td>
-      <strong>🌾 Agri-Tech Platform</strong><br />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🛒 E-Commerce UI Design</strong><br />
-    </td>
-    <td>
-      <strong>🖥️ Front-End Projects</strong><br />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -115,7 +120,3 @@
 </p>
 
 ---
-
-<h2 align="left">🧠 Quote I Live By</h2>
-
-> "Be patient. Keep learning. Keep building. Never stop growing."
