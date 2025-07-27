@@ -9,6 +9,15 @@
 </p>
 
 ---
+</td>
+<td valign="top" width="50%" align="left">
+
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-%2313BEA0?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="My Portfolio Badge" style="width:220px;height:50px;">
+</a>
+
+</td>
+</tr></table>
 
 <h2 align="left">👨‍💼 About Me</h2>
 
@@ -28,15 +37,6 @@
   
 - ☕ Fuel: Tea + Morning = 💡 Productivity
 
-</td>
-<td valign="top" width="50%" align="left">
-
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Portfolio-%2313BEA0?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="My Portfolio Badge" style="width:220px;height:50px;">
-</a>
-
-</td>
-</tr></table>
 
 ---
 
