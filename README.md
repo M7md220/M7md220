@@ -1,27 +1,27 @@
 <!-- ✨ Header Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Morsy.;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Green+Growth!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=13BEA0&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Mohamed+Morsy.;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Creativity!" />
 </p>
 
-<!-- 👨‍💻🌱 Hero GIF -->
+<!-- 👨‍💻 Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdtYTNzOGlybXZqdzl5bXh4Z3NkbTd5NWt0YmppdGdyZ25jcHh5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="450" alt="coding + nature gif">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="coding gif">
 </p>
 
 ---
 
 <h2 align="left">👨‍💼 About Me</h2>
 
-- 👋 Name: **Mohamed Morsy**  
-- 💻 Role: **Front-End Developer** (React, JavaScript, CSS)  
-- 🌱 Field of Study: **Agricultural Sciences** – Faculty of Agriculture, Egypt  
-- 🌐 Learned from amazing mentors:
+-  Name: Mohamed Morsy
+- 💻 Role: Front-End Developer (React, JavaScript, CSS)
+- 🌐 I learned from amazing mentors like:
   - Islam Hesham (Codezilla)
   - Osama Elzero (Elzero Web School)
-  - Al-Madrasa Platform  
-- 🔁 Always learning & improving technical + soft skills  
-- 🚀 Mission: Combine **Agriculture + Technology** for a better future  
-- ☕ Fuel: **Tea + Morning = 💡 Productivity**
+  - Al-Madrasa Platform
+- 🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.
+- 🧠 Always learning and improving my technical & soft skills
+- 🚀 Mission: To combine Agriculture & Technology for a better future
+- ☕ Fuel: Tea + Morning = 💡
 
 ---
 
@@ -35,4 +35,4 @@
 
 <h2 align="left">🧠 Quote I Live By</h2>
 
-> **"Be patient. Keep learning. Keep building. Never stop growing."**
+> "Be patient. Keep learning. Keep building. Never stop growing."
