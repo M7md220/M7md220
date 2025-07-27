@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p  width="50%" align="right">
+<p align="right">
   <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/%F0%9F%94%97%20My%20Portfolio-00BFA6?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="My Portfolio Badge" style="width:220px;height:50px;">
   </a>
