@@ -46,8 +46,8 @@
 <h2 align="left">🗣️ Languages I Speak</h2>
 
 <p align="center">
-  <img src="#https://img.shields.io/badge/Arabic-Native-%2313BEA0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic Badge"/>
-  <img src="#https://img.shields.io/badge/English-Professional-%2313BEA0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Badge"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="40" title="Arabic - Native" />
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="40" title="English - Professional" />
 </p>
 
 ---
