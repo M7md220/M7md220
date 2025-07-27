@@ -56,6 +56,10 @@
 | [🛒 E-Commerce Site](#e-commerce-site) | A fictional e-commerce platform. |
 | [🧩 Front-End Mini Projects](#front-end-mini-projects) | Small UI/UX interactive components built with HTML/CSS/JS. |
 
+| Project | Description |
+|--------|-------------|
+| [🍽️ Recipe Page](https://github.com/M7md220/recipe-page) | A simple and elegant recipe page built with HTML and CSS. |
+
 ---
 
 ### 💼 I'm Open To
