@@ -10,6 +10,13 @@
 
 ---
 
+<h2 align="left">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,git,github,vscode,figma" alt="Languages & Tools" />
+</p>
+
+---
 <h2 align="left">👨‍💼 About Me</h2>
 
 <ul>
