@@ -69,27 +69,10 @@
  ---
 
 <!-- 🌍 Languages I Speak -->
-<h2 align="left">🌍 Languages I Speak</h2>
+### 🌍 Languages I Speak
 
-<div align="center" style="font-size: 18px; display: flex; justify-content: center; gap: 60px;">
-
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://flagcdn.com/w40/eg.png" width="30" alt="Egypt Flag" />
-    <div>
-      <strong>Arabic</strong><br />
-      <span>Native Speaker</span>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://flagcdn.com/w40/gb.png" width="30" alt="UK Flag" />
-    <div>
-      <strong>English</strong><br />
-      <span>Professional Level</span>
-    </div>
-  </div>
-
-</div>
+- 🇪🇬 Arabic — Native Speaker  
+- 🇬🇧 English — Professional Level
 
 ---
 
