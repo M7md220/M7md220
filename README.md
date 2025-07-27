@@ -17,23 +17,25 @@
 </p>
 
 ---
-<h2 align="left">👨‍💼 About Me</h2>
+### 👨‍💼 About Me
 
-<ul>
-  <li>👋 Name: Mohamed Morsy</li><br>
-  <li>💻 Role: Front-End Developer (React, JavaScript, CSS)</li><br>
-  <li>🌐 I learned from amazing mentors like:
-    <ul>
-      <li>Al-Madrasa Platform</li> 
-      <li>Islam Hesham (Codezilla)</li>
-      <li>Osama Elzero (Elzero Web School)</li>
-    </ul>
-  </li><br>
-  <li>🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.</li><br>
-  <li>🧠 Always learning and improving my technical & soft skills</li><br>
-  <li>🚀 Mission: To combine Agriculture & Technology for a better future</li><br>
-  <li>☕ Fuel: Tea + Morning = 💡 Productivity</li>
-</ul>
+- 👋 **Name:** Mohamed Morsy
+  
+- 💻 **Role:** Front-End Developer (React, JavaScript, CSS)
+   
+- 🌐 **I learned from amazing mentors:**  
+  - Al-Madrasa Platform  
+  - Islam Hesham (Codezilla)  
+  - Osama Elzero (Elzero Web School)
+    
+- 🎓 **Studying:** Agricultural Sciences – Faculty of Agriculture, Egypt
+   
+- 🧠 **Mindset:** Always learning and improving my technical & soft skills
+  
+- 🚀 **Mission:** Combine Agriculture & Technology for a better future
+  
+- ☕ **Fuel:** Tea + Morning = 💡 Productivity
+
 <!-- 💼 Portfolio Section -->
 <p align="center"><strong>🚀 Curious about my work? Dive into my portfolio now!</strong></p>
 
