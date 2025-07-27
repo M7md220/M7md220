@@ -10,13 +10,27 @@
 
 ---
 
-## ✨ About Me
+<h2 align="left">👨‍💼 About Me</h2>
 
-```yaml
-👨‍💻 Name: Mohamed Morsy
-🎓 Major: Agricultural Sciences
-💻 Role: Front-End Developer
-🌱 Learning: React, Tailwind CSS, UI/UX, Web Animation
-🧠 From: Egypt 🇪🇬
-🚀 Passion: Clean Code, Creative Design, Modern Web Apps
-🎯 Goal: Combine science 🌿 + tech 💻 to build a better future
+- 🎓 Student at Faculty of Agriculture, Egypt
+- 💻 Passionate Front-End Developer
+- 🧠 Always learning and improving technical & soft skills
+- 🌐 I learned from amazing mentors like:
+  - Islam Hesham (Codezilla)
+  - Osama Elzero (Elzero Web School)
+  - Al-Madrasa Platform
+- 🚀 I believe in consistency, practice, and sharing knowledge
+
+---
+
+<h2 align="left">📬 Let's Connect</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-MohamedMorsy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Facebook](https://img.shields.io/badge/-MohamedMorsy-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/)  
+[![GitHub](https://img.shields.io/badge/-MohamedMorsy-000?style=flat-square&logo=github&logoColor=white)](https://github.com/)  
+
+---
+
+<h2 align="left">🧠 Quote I Live By</h2>
+
+> "Keep building. Keep learning. Never stop growing."
