@@ -1,22 +1,23 @@
-<!-- Banner متحرك -->
+<!-- ✨ Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=13BEA0&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Mohamed+Morsy;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Lover+of+Code+%26+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mohamed+Morsy+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;Agriculture+Student+%F0%9F%8C%B1;Code.+Design.+Repeat."/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-🔭 I’m currently working on: Improving my front-end skills and building real-world projects.
-
-🌱 I’m learning: React.js, Tailwind CSS, and UI/UX Design principles.
-
-🎓 I study: Agricultural Sciences – Faculty of Agriculture, Egypt.
-
-📚 Self-taught from:
-  - 🧠 Osama Elzero (Elzero Web School)
-  - 💡 Islam Hesham (Codezilla)
-  - 🚀 Al-Madrasa Platform
-
-💡 Fun fact: I mix code with creativity — and coffee ☕ helps me code better.
+💡 Name: Mohamed Morsy
+🎓 Student: Faculty of Agriculture, Egypt
+💻 Role: Front-End Developer (React, JavaScript, CSS)
+🌱 Learnt from: 
+  - Codezilla (Islam Hesham)
+  - Elzero Web School (Osama Elzero)
+  - Al-Madrasa Platform
+🧠 Passion: Learning, Building, Growing
+☕ Fuel: Tea + Night coding = 💡
