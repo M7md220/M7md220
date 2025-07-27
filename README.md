@@ -46,10 +46,19 @@
 <!-- 🌍 Languages I Speak -->
 <h2 align="left">🌍 Languages I Speak</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arabic%20(Native)-🇪🇬-13BEA0?style=for-the-badge" alt="Arabic Native" />
-  <img src="https://img.shields.io/badge/English%20(Professional)-🇬🇧-0d6efd?style=for-the-badge" alt="English Professional" />
-</p>
+<div align="center" style="font-size: 18px; display: flex; justify-content: center; gap: 40px;">
+
+  <div>
+    <img src="https://flagcdn.com/w40/eg.png" width="40" alt="Egypt Flag" />
+    <p><strong>Arabic</strong><br />Native Speaker</p>
+  </div>
+
+  <div>
+    <img src="https://flagcdn.com/w40/gb.png" width="40" alt="UK Flag" />
+    <p><strong>English</strong><br />Professional Level</p>
+  </div>
+
+</div>
 
 ---
 
