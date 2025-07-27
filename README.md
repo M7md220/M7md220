@@ -37,6 +37,7 @@
 
 </td>
 </tr></table>
+
 ---
 
 <h2 align="left">🚀 My Projects</h2>
