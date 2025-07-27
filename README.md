@@ -69,7 +69,11 @@
 
 <h2 align="left">🧠 Quote I Live By</h2>
 
-> "Be patient. Keep learning. Keep building. Never stop growing."
+<blockquote>
+  <p style="font-size: 20px; font-weight: bold;">
+    "Be patient. Keep learning. Keep building. Never stop growing."
+  </p>
+</blockquote>
 
  ---
 
